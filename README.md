@@ -7,7 +7,7 @@
 dans le *dossier du projet*
 -   **Créez** un fichier `index.html`
 -   **Rendez-vous** sur
-[*getBootstrap.com*]('http://getbootstrap.com/docs/3.3/getting-started/#template')
+[*getBootstrap.com*](http://getbootstrap.com/docs/3.3/getting-started/#template)
 -   Sur la page *`Getting Started`* **identifiez** la section *`Basic
 Template`* dans le menu de droite
 -   **Copiez/Collez** le code du *`Basic Template`* de démarrage dans
@@ -29,7 +29,7 @@ le fichier `index.html`
 
 ## Menu de Navigation
 -   **Récupérez** la `NavBar` dans
-[*Components*]('http://getbootstrap.com/docs/3.3/components/#navbar-fixed-top'), **Cliquez** sur *`fixed to top`* puis *copiez/collez* le code en remplaçant le `<h1>` *'Hello World'*
+[*Components*](http://getbootstrap.com/docs/3.3/components/#navbar-fixed-top), **Cliquez** sur *`fixed to top`* puis *copiez/collez* le code en remplaçant le `<h1>` *'Hello World'*
 
 ```html
   <nav class="navbar navbar-default navbar-fixed-bottom">
@@ -141,7 +141,7 @@ la numérotation du `data-target="Modal1"` cela nous servira plus tard)
 ## Un peu de Javascript, pas de panique
 -   Nous allons mettre en place des `modal PopUp` animées,
 **rendez-vous** sur
-[*Javascript*]('http://getbootstrap.com/docs/3.3/components/#navbar-fixed-top') et **repérez** la section `Modal > Size` et copiez le bout de code correspondant à `Large Modal` dans `Optional Size` (sans le bouton) et **collez** le bout de code sous votre première image
+[*Javascript*](https://getbootstrap.com/docs/3.3/javascript/#modals-sizes) et **repérez** la section `Modal > Size` et copiez le bout de code correspondant à `Large Modal` dans `Optional Size` (sans le bouton) et **collez** le bout de code sous votre première image
 -   Toujours dans la partie `Modal` sur le site, **localisez** le
 sous-titre "Live Demo" et récupérez le code à l'intérieur de la `<div
 class="modal-content">` et **retirez** le `modal-footer`
